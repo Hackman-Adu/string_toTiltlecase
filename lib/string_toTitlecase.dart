@@ -1,4 +1,4 @@
-library string_toTitlecase;
+library string_totitlecase;
 
 class Casing {
   static String titleCase(String input) {

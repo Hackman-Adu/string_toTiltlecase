@@ -1,3 +1,3 @@
-## [0.0.1] - TODO: Add release date.
+## [0.0.25]
 
 - A very simple flutter library to convert string to title case

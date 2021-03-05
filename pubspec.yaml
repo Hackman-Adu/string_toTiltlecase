@@ -1,8 +1,8 @@
-name: string_toTitlecase
+name: string_totitlecase
 description: A simple dart library for converting string to titlecase
-version: 0.0.2
+version: 0.0.25
 author: Hackman Adu Gyamfi<hackmangyamfi31@gmail.com>
-homepage: https://github.com/Hackman-Adu/titlecase.git
+homepage: https://github.com/Hackman-Adu/string_toTiltlecase.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
