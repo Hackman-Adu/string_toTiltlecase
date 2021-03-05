@@ -1,4 +1,4 @@
-import '../lib/string_totitlecase.dart';
+import 'package:string_totitlecase/string_toTitlecase.dart';
 
 void main() {
   String myInput = """this is the testing 
