@@ -2,9 +2,9 @@
 
 A very simple flutter package to convert string to titlecase
 
-## Usage
+## Simple Usage Found Here
 
-[example]()
+[Example](https://github.com/Hackman-Adu/string_toTiltlecase/blob/main/example/example.dart)
 
 ## Getting Started
 
