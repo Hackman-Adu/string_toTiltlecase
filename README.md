@@ -1,6 +1,10 @@
-# string_toTitlecase
+## string_toTitlecase
 
 A very simple flutter package to convert string to titlecase
+
+## Usage
+
+[example]()
 
 ## Getting Started
 
